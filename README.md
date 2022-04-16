@@ -1,4 +1,4 @@
-## Hi I'm Jasmyn 👋!
+## Hi, I'm Jasmyn 👋!
 
 ### I'm excited about efficiency, growth and connection.
 
@@ -35,10 +35,10 @@ Things I love:
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 
 ***
-<kbd>
+
 [![Jasmyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasmyn2244)](https://github.com/jasmyn2244/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasmyn2244&layout=compact)](https://github.com/jasmyn2244/github-readme-stats)
-</kbd>
+
 
 
 
