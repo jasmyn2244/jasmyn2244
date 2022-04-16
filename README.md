@@ -22,12 +22,11 @@ Things I love
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
-
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 
 
 [![Jasmyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasmyn2244)](https://github.com/jasmyn2244/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasmyn2244)](https://github.com/jasmyn2244/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasmyn2244&layout=compact)](https://github.com/jasmyn2244/github-readme-stats)
 
 
 
