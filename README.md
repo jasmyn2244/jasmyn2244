@@ -1,4 +1,4 @@
-## Hi I'm Jasmyn!
+# Hi I'm Jasmyn 👋!
 
 ### I'm excited about efficiency, growth and connection.
 
@@ -7,7 +7,7 @@
 - 🎨 I'm proud of the css on [this project](https://github.com/jasmyn2244/overlook-repo)
 - 🤓 I learned so many things while collaborating on [this project](https://github.com/jasmyn2244/ok-cryptid-fe) (including: GraphQL, Context API, React Router 6, the mysteries of Cryptids 👣🛸)
 - 😅 I tried Typescript for the first time on [this project](https://github.com/jasmyn2244/Round-House-Rumble)
-- 📖 Currently Reading Eloquent Javascript and The Missing Readme
+- 📖 Currently Reading Eloquent Javascript and The Missing README
 
 ***
 
