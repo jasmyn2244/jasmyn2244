@@ -2,10 +2,14 @@
 
 ### I'm excited about efficiency, growth and connection.
 
+***
+
 🎨 I'm proud of the css on [this project](https://github.com/jasmyn2244/overlook-repo)
 🤓 I learned so many things while collaborating on [this project](https://github.com/jasmyn2244/ok-cryptid-fe) (including: GraphQL, Context API, React Router 6, the mysteries of Cryptids 👣🛸)
 😅 I tried Typescript for the first time on [this project](https://github.com/jasmyn2244/Round-House-Rumble)
 📖 Currently Reading Eloquent Javascript and The Missing Readme
+
+***
 
 Things I love:
 - 🍪 Cookies (specifically any peanut butter cookie from Crumbl)
@@ -13,6 +17,7 @@ Things I love:
 - 🏐 Spikeball
 - 📚 Learning 
 
+***
 
 ### Languages | Frameworks | Libraries
 
@@ -29,6 +34,7 @@ Things I love:
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 
+***
 
 [![Jasmyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasmyn2244)](https://github.com/jasmyn2244/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasmyn2244&layout=compact)](https://github.com/jasmyn2244/github-readme-stats)
