@@ -3,8 +3,8 @@
 ### I'm excited about efficiency, growth and connection.
 
 ***
-
-- 🎨 I'm proud of the CSS on [this project](https://github.com/jasmyn2244/overlook-repo)
+- 🏆 My prized project [check it out](https://github.com/jasmyn2244/ny-times-top-stories)
+- 🎨 I'm proud of the CSS on [this vanilla js project](https://github.com/jasmyn2244/overlook-repo)
 - 🤓 I learned so much while collaborating on [this project](https://github.com/jasmyn2244/ok-cryptid-fe) (including: GraphQL, Context API, React Router 6, and the mysteries of Cryptids 👣🛸)
 - 😅 I tried Typescript for the first time on [this project](https://github.com/jasmyn2244/Round-House-Rumble)
 - 📖 Currently [Reading Eloquent Javascript](https://open.umn.edu/opentextbooks/textbooks/453) and [The Missing README](https://www.goodreads.com/en/book/show/57271519-the-missing-readme)
